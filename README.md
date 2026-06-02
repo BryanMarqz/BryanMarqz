@@ -1,39 +1,68 @@
-# Hi, I'm Bryan 👋
+<h1 align="center">Hi 👋, I'm Bryan</h1>
+<h3 align="center">Computer Science student • Aspiring Software Engineer</h3>
 
-Computer Science student at UPR-RP.
+---
 
-Currently learning programming fundamentals and working toward a career in software engineering.
+### 🚀 About Me
 
-## Languages & Tools
+- 🎓 Computer Science student passionate about building reliable, well-engineered software
+- 🌱 Currently sharpening my skills to land a **Software Engineer** role
+- 🧮 Interested in numerical computing, machine learning, and clean code
+- 💬 Ask me about **C/C++, Python, JavaScript, and SQL**
+- 📫 Reach me at: **your.email@example.com**
+
+---
+
+### 🛠️ Languages & Technologies
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="45" height="45"/>
+  </a>
 </p>
 
-## Currently Learning
+---
 
-- C Programming
-- Python
-- Data Structures
-- Git & GitHub
+### 📈 Currently Learning
 
-## Goals
+- 🧪 Data structures & algorithms (for technical interviews)
+- 🐙 Git & collaborative workflows
+- 🏗️ System design fundamentals
+- ✅ Testing and writing production-quality code
 
-- Build personal projects
-- Strengthen programming fundamentals
-- Prepare for software engineering internships
+---
 
-## Reach Me
+### 📊 GitHub Stats
 
 <p align="left">
-  <a href="mailto:b.m.albandoz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
+</p>
 
-  <a href="https://www.linkedin.com/in/bryan-márquez-9184862b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
