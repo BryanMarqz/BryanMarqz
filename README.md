@@ -45,7 +45,7 @@
 - System design fundamentals
 - Testing and writing production-quality code
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
