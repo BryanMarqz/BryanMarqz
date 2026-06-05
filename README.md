@@ -14,9 +14,9 @@
 
 ### Languages & Technologies
 
-<p>**Frontend:** HTML5, CSS3, JavaScript</p>
-<p>**Backend:** PHP, Python, C/C++, SQL, REST APIs, JSON</p>
-<p>**DevOps & Tools:** Git, Docker, Linux, Bash</p>
+<p>Frontend: HTML5, CSS3, JavaScript</p>
+<p>Backend: PHP, Python, C/C++, SQL, REST APIs, JSON</p>
+<p>DevOps & Tools: Git, Docker, Linux, Bash</p>
 
 <p align="left">
   <a href="https://www.php.net/" target="_blank">
