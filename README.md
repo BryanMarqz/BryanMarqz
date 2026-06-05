@@ -77,7 +77,4 @@ A web app helping Puerto Rico residents discover, filter, and register for local
   <a href="https://linkedin.com/in/bryan-marquez-9184862b4" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://github.com/BryanMarqz" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
 </p>
