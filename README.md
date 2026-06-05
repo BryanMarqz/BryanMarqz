@@ -80,7 +80,4 @@ A web app helping Puerto Rico residents discover, filter, and register for local
   <a href="https://github.com/BryanMarqz" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="mailto:b.m.albandoz@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
-  </a>
 </p>
