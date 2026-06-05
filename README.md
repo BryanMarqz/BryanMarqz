@@ -7,7 +7,7 @@
 - B.S. in Computer Science @ University of Puerto Rico, Río Piedras Campus (2026)
 - Full-stack developer with experience building end-to-end web applications
 - Co-developed geospatial tools during a cooperative internship at Estudios Técnicos
-- Bilingual in English and Spanish 🇵🇷
+- Bilingual in English and Spanish
 - Ask me about **PHP, MySQL, JavaScript, Python, and C/C++**
 
 ---
