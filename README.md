@@ -61,7 +61,7 @@
 **[Neighborly](https://github.com/BryanMarqz/neighborly)** — Full-Stack Volunteer Matching Platform
 A web app helping Puerto Rico residents discover, filter, and register for local volunteer opportunities. Built with PHP (MVC) and MySQL on the backend, with a responsive, mobile-first frontend in vanilla JavaScript, HTML5, and CSS3, plus RESTful endpoints for dynamic data exchange.
 
-`PHP` `MySQL` `JavaScript` `HTML5` `CSS3`
+`PHP` `MySQL` `JavaScript` `HTML` `CSS`
 
 ---
 
