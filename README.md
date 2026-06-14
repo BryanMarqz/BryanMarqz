@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I'm Bryan</h1>
+<h1 align="center">Hello, I'm Bryan</h1>
 <h3 align="center">Full-Stack Developer & Computer Science Graduate</h3>
 
 ---
